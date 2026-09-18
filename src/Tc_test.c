@@ -2,7 +2,7 @@
 #include <tc/tc.h>
 #include <tc/emh.h>
 
-// Login Program 1
+// Login Program 1st Program
 int main(int argc, char *argv[])
 {
     int ifail = ITK_ok;
